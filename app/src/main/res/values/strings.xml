@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExpenseGraph</string>
+    <string name="export">Export…</string>
+    <string name="graphs_table"><![CDATA[Graphs & Table]]></string>
+    <string name="add_expense">Add Expense</string>
+    <string name="import_from">Import…</string>
+    <string name="title">title</string>
+</resources>
